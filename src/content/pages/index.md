@@ -24,9 +24,6 @@ hero_block:
       with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop
       components in CloudCannon. Create your own copy, and start creating your
       own components to use in CloudCannon’s CMS.
-
-
-      A new paragraph for a demo with Karla.
     color: '#393939'
     text_color: '#333232'
   image:

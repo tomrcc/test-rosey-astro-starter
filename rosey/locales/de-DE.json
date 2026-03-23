@@ -116,12 +116,12 @@
   },
   "heading": {
     "original": " Update live for the demo. ",
-    "value": " Update live for the demo. ",
+    "value": "Manage German Translations",
     "_base_original": " Update live for the demo. "
   },
   "markdown": {
     "original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n",
-    "value": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n",
+    "value": "<p>A <strong>starting</strong> point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>",
     "_base_original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n"
   },
   "text": {
