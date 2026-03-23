@@ -1,132 +1,132 @@
 {
-	"blog:accessibility": {
-		"original": "Accessibility ",
-		"value": "Accessibilité\n",
-		"_base_original": " Accessibility "
-	},
-	"blog:building": {
-		"original": "Building ",
-		"value": "Bâtiment\n",
-		"_base_original": " Building "
-	},
-	"blog:formatting": {
-		"original": "Formatting",
-		"value": "Formatage\n",
-		"_base_original": " Formatting "
-	},
-	"blog:navigation": {
-		"original": "Navigation ",
-		"value": "Navigation\n",
-		"_base_original": " Navigation "
-	},
-	"blog:pagefind-search": {
-		"original": "Pagefind Search",
-		"value": "Pagefind Search",
-		"_base_original": "Pagefind Search"
-	},
-	"blog:pagination": {
-		"original": "Pagination ",
-		"value": "Pagination\n",
-		"_base_original": " Pagination "
-	},
-	"blog:recent-posts": {
-		"original": "Recent Posts",
-		"value": "Messages récents\n",
-		"_base_original": "\nRecent Posts\n"
-	},
-	"blog:search": {
-		"original": "Search",
-		"value": "Recherche\n",
-		"_base_original": " Search "
-	},
-	"blog:seo": {
-		"original": "Seo",
-		"value": "Seo\n",
-		"_base_original": " Seo "
-	},
-	"blog:seo-controls": {
-		"original": "SEO Controls",
-		"value": "SEO Controls",
-		"_base_original": "SEO Controls"
-	},
-	"blog:styling": {
-		"original": "Styling ",
-		"value": "Stylisme\n",
-		"_base_original": " Styling "
-	},
-	"blog:tailwind": {
-		"original": "Tailwind ",
-		"value": "Tailwind\n",
-		"_base_original": " Tailwind "
-	},
-	"blog:title": {
-		"original": " Blog ",
-		"value": " Blog ",
-		"_base_original": " Blog "
-	},
-	"blog:words": {
-		"original": "words",
-		"value": "mots\n",
-		"_base_original": "words"
-	},
-	"blog:WYSIWYG editing": {
-		"original": " WYSIWYG editing ",
-		"value": " WYSIWYG editing ",
-		"_base_original": " WYSIWYG editing "
-	},
-	"common:blog": {
-		"original": " Blog ",
-		"value": " Blog ",
-		"_base_original": " Blog "
-	},
-	"common:cloudcannon": {
-		"original": " CloudCannon ",
-		"value": " CloudCannon ",
-		"_base_original": " CloudCannon "
-	},
-	"common:copyright": {
-		"original": " MyCompany. All rights reserved. ",
-		"value": " MyCompany. All rights reserved. ",
-		"_base_original": " MyCompany. All rights reserved. "
-	},
-	"common:deutsch": {
-		"original": " Deutsch ",
-		"value": " Deutsch ",
-		"_base_original": " Deutsch "
-	},
-	"common:english-us-": {
-		"original": " English (US) ",
-		"value": " English (US) ",
-		"_base_original": " English (US) "
-	},
-	"common:french": {
-		"original": " French ",
-		"value": " French ",
-		"_base_original": " French "
-	},
-	"common:github": {
-		"original": " GitHub ",
-		"value": " GitHub ",
-		"_base_original": " GitHub "
-	},
-	"common:rss-feed": {
-		"original": " RSS Feed ",
-		"value": " RSS Feed ",
-		"_base_original": " RSS Feed "
-	},
-	"heading": {
-		"original": " Update live for the demo. ",
-		"value": " Update live for the demo. ",
-		"_base_original": " Update live for the demo. "
-	},
-	"markdown": {
-		"original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n",
-		"value": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n",
-		"_base_original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n"
-	},
-	"text": {
-		"original": " GitHub ",
-		"value": " GitHub ",
-		"_base_original": " GitHub "
-	}
+  "blog:accessibility": {
+    "original": "Accessibility ",
+    "value": "Accessibilité\n",
+    "_base_original": " Accessibility "
+  },
+  "blog:building": {
+    "original": "Building ",
+    "value": "Bâtiment\n",
+    "_base_original": " Building "
+  },
+  "blog:formatting": {
+    "original": "Formatting",
+    "value": "Formatage\n",
+    "_base_original": " Formatting "
+  },
+  "blog:navigation": {
+    "original": "Navigation ",
+    "value": "Navigation\n",
+    "_base_original": " Navigation "
+  },
+  "blog:pagefind-search": {
+    "original": "Pagefind Search",
+    "value": "Pagefind Search",
+    "_base_original": "Pagefind Search"
+  },
+  "blog:pagination": {
+    "original": "Pagination ",
+    "value": "Pagination\n",
+    "_base_original": " Pagination "
+  },
+  "blog:recent-posts": {
+    "original": "Recent Posts",
+    "value": "Messages récents\n",
+    "_base_original": "\nRecent Posts\n"
+  },
+  "blog:search": {
+    "original": "Search",
+    "value": "Recherche\n",
+    "_base_original": " Search "
+  },
+  "blog:seo": {
+    "original": "Seo",
+    "value": "Seo\n",
+    "_base_original": " Seo "
+  },
+  "blog:seo-controls": {
+    "original": "SEO Controls",
+    "value": "SEO Controls",
+    "_base_original": "SEO Controls"
+  },
+  "blog:styling": {
+    "original": "Styling ",
+    "value": "Stylisme\n",
+    "_base_original": " Styling "
+  },
+  "blog:tailwind": {
+    "original": "Tailwind ",
+    "value": "Tailwind\n",
+    "_base_original": " Tailwind "
+  },
+  "blog:title": {
+    "original": " Blog ",
+    "value": " Blog ",
+    "_base_original": " Blog "
+  },
+  "blog:words": {
+    "original": "words",
+    "value": "mots\n",
+    "_base_original": "words"
+  },
+  "blog:WYSIWYG editing": {
+    "original": " WYSIWYG editing ",
+    "value": " WYSIWYG editing ",
+    "_base_original": " WYSIWYG editing "
+  },
+  "common:blog": {
+    "original": " Blog ",
+    "value": " Blog ",
+    "_base_original": " Blog "
+  },
+  "common:cloudcannon": {
+    "original": " CloudCannon ",
+    "value": " CloudCannon ",
+    "_base_original": " CloudCannon "
+  },
+  "common:copyright": {
+    "original": " MyCompany. All rights reserved. ",
+    "value": " MyCompany. All rights reserved. ",
+    "_base_original": " MyCompany. All rights reserved. "
+  },
+  "common:deutsch": {
+    "original": " Deutsch ",
+    "value": " Deutsch ",
+    "_base_original": " Deutsch "
+  },
+  "common:english-us-": {
+    "original": " English (US) ",
+    "value": " English (US) ",
+    "_base_original": " English (US) "
+  },
+  "common:french": {
+    "original": " French ",
+    "value": " French ",
+    "_base_original": " French "
+  },
+  "common:github": {
+    "original": " GitHub ",
+    "value": " GitHub ",
+    "_base_original": " GitHub "
+  },
+  "common:rss-feed": {
+    "original": " RSS Feed ",
+    "value": " RSS Feed ",
+    "_base_original": " RSS Feed "
+  },
+  "heading": {
+    "original": " Update live for the demo. ",
+    "value": " Update live for the demo. ",
+    "_base_original": " Update live for the demo. "
+  },
+  "markdown": {
+    "original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n",
+    "value": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n",
+    "_base_original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n"
+  },
+  "text": {
+    "original": " GitHub ",
+    "value": " GitHub ",
+    "_base_original": " GitHub "
+  }
 }
