@@ -1,0 +1,14 @@
+---
+import markdownit from "markdown-it";
+const md = markdownit({ html: true });
+const { content } = Astro.props;
+const markdownContent = content ? md.render(content) : "";
+---
+
+<!-- This is styled in src/styles/_markdown.scss, which also styles the blog markdown text -->
+<div
+  class="markdown-text"
+  data-rosey-ns="rcc-markdown"
+  data-rosey-tagger
+  set:html={markdownContent}
+/>

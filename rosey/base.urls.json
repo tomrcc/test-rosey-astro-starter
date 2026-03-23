@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "keys": {
+    "404.html": {
+      "original": "404.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "blog/index.html": {
+      "original": "blog/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "blog/search/index.html": {
+      "original": "blog/search/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "blog/seo/index.html": {
+      "original": "blog/seo/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "blog/tailwind/index.html": {
+      "original": "blog/tailwind/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "de-DE/blog/search/index.html": {
+      "original": "de-DE/blog/search/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "de-DE/blog/seo/index.html": {
+      "original": "de-DE/blog/seo/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "de-DE/blog/tailwind/index.html": {
+      "original": "de-DE/blog/tailwind/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr-FR/blog/search/index.html": {
+      "original": "fr-FR/blog/search/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr-FR/blog/seo/index.html": {
+      "original": "fr-FR/blog/seo/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr-FR/blog/tailwind/index.html": {
+      "original": "fr-FR/blog/tailwind/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "index.html": {
+      "original": "index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/WYSIWYG editing/index.html": {
+      "original": "tags/WYSIWYG editing/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/accessibility/index.html": {
+      "original": "tags/accessibility/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/building/index.html": {
+      "original": "tags/building/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/formatting/index.html": {
+      "original": "tags/formatting/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/navigation/index.html": {
+      "original": "tags/navigation/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/pagination/index.html": {
+      "original": "tags/pagination/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/search/index.html": {
+      "original": "tags/search/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/seo/index.html": {
+      "original": "tags/seo/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/styling/index.html": {
+      "original": "tags/styling/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "tags/tailwind/index.html": {
+      "original": "tags/tailwind/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    }
+  }
+}
