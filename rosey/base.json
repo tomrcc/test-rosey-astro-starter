@@ -538,7 +538,7 @@
       "total": 3
     },
     "markdown": {
-      "original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n<p>A new paragraph for a demo with Karla.</p>\n",
+      "original": "<p>A starting point for developers looking to build a multilingual website with Astro, Rosey, and the Rosey CloudCannon Connector, using Bookshop components in CloudCannon. Create your own copy, and start creating your own components to use in CloudCannon’s CMS.</p>\n",
       "value": null,
       "pages": {
         "index.html": 3
