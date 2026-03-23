@@ -304,20 +304,24 @@ collections_config:
     disable_add_folder: true
     glob: 
       - '!icons.json'
-  translations:
-    path: rosey
+  locales:
+    path: rosey/locales
+    name: Locales
     icon: translate
-    disable_url: true
     disable_add: true
     disable_add_folder: true
     disable_file_actions: true
-    glob:
-      - rcc.yaml
-      - 'translations/**'
     _inputs:
-      urlTranslation:
-        type: text
-        comment: Provide a translation for the URL that Rosey will build this page at.
+      value:
+        type: html
+        label: Translation
+        cascade: true
+      original:
+        hidden: true
+        cascade: true
+      _base_original:
+        disabled: true
+        cascade: true
 
 collection_groups:
   - heading: Pages
@@ -329,7 +333,7 @@ collection_groups:
   - heading: Data
     collections:
       - data
-      - translations
+      - locales
 
 data_config:
   icons:
@@ -338,6 +342,10 @@ data_config:
     path: data/colors.json
   tags:
     path: data/tags.json
+  locales_fr-FR:
+    path: rosey/locales/fr-FR.json
+  locales_de-DE:
+    path: rosey/locales/de-DE.json
 
 file_config:
   - glob: data/colors.json

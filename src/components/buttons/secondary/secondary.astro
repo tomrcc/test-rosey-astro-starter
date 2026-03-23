@@ -1,5 +1,4 @@
 ---
-import { generateRoseyId } from "rosey-cloudcannon-connector/utils";
 import Icon from "../../utility/Icon.jsx";
 interface Props {
   button_text: string;
@@ -25,7 +24,7 @@ const hover_brightness = block.hover_brightness;
         </span>
       )
     }
-    <span data-rosey={generateRoseyId(block.button_text)}>
+    <span data-rosey="text">
       {block.button_text}
     </span>
   </p>

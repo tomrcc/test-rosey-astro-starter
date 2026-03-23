@@ -1,5 +1,4 @@
 ---
-import { generateRoseyId } from "rosey-cloudcannon-connector/utils";
 import { header } from "../../../data/navigation.json";
 import Icon from "../utility/Icon";
 
@@ -71,7 +70,7 @@ const pagePath = Astro.url.pathname || "page";
                     <a
                       class="header__nav-link"
                       href={link.link}
-                      data-rosey={generateRoseyId(link.text)}>
+                      data-rosey={link.text.toLowerCase().replace(/\s+/g, "-")}>
                       {link.text}
                     </a>
                   </li>
@@ -92,7 +91,7 @@ const pagePath = Astro.url.pathname || "page";
                   <a
                     class="header__nav-link"
                     href={link.link}
-                    data-rosey={generateRoseyId(link.text)}>
+                    data-rosey={link.text.toLowerCase().replace(/\s+/g, "-")}>
                     {link.text}
                   </a>
                 </li>
@@ -109,13 +108,13 @@ const pagePath = Astro.url.pathname || "page";
               header.locales.map((locale) => {
                 return (
                   <li>
-                    <a href={`/${locale.code}${pagePath}`}>
+                    <a href={`/${locale.code}${pagePath}`} data-rosey-ignore>
                       <img
                         class="w-[32px]"
                         src={locale.flag}
                         alt={`${locale.name} Flag`}
                       />
-                      <span data-rosey={generateRoseyId(locale.name)}>
+                      <span data-rosey={locale.name.toLowerCase().replace(/[\s()]+/g, "-")}>
                         {locale.name}
                       </span>
                     </a>

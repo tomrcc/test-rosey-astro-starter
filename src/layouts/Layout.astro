@@ -117,11 +117,18 @@ const headerStyleOverrides = hero_block?.header_style_overrides ?? {};
     />
   </head>
   <body>
-    <Header headerStyleOverrides={headerStyleOverrides} />
-    <main>
-      <slot />
-    </main>
-    <Footer />
+    <div data-rcc>
+      <Header headerStyleOverrides={headerStyleOverrides} />
+      <main>
+        <slot />
+      </main>
+      <Footer />
+    </div>
+    <script>
+      if (window?.inEditorMode) {
+        import("rosey-cloudcannon-connector");
+      }
+    </script>
     <style is:global>
       :root {
         /* Max width and inline padding of the page */

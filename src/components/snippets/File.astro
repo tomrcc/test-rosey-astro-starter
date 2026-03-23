@@ -1,12 +1,10 @@
 ---
-import { generateRoseyId } from "rosey-cloudcannon-connector/utils";
-
 const block = Astro.props;
 ---
 
 <a
   href={block.src}
   download={block.file_name}
-  data-rosey={generateRoseyId(block.link_message)}>
+  data-rosey="link-text">
   {block.link_message}
 </a>

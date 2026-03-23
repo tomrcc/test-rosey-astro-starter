@@ -1,12 +1,10 @@
 ---
-import { generateRoseyId } from "rosey-cloudcannon-connector/utils";
-
 const block = Astro.props;
 ---
 
 <details>
-  <summary data-rosey={generateRoseyId(block.heading)}>{block.heading}</summary>
-  <div data-rosey={generateRoseyId(block.text)}>
+  <summary data-rosey="heading">{block.heading}</summary>
+  <div data-rosey="text">
     {block.text}
   </div>
 </details>

@@ -1,5 +1,4 @@
 ---
-import { generateRoseyId } from "rosey-cloudcannon-connector/utils";
 import { footer } from "../../../data/navigation.json";
 import Icon from "../utility/Icon";
 const linkHoverColor = footer.hover_text_color;
@@ -39,7 +38,7 @@ const linkHoverColor = footer.hover_text_color;
           footer.links.map((link) => {
             return (
               <li>
-                <a href={link.link} data-rosey={generateRoseyId(link.text)}>
+                <a href={link.link} data-rosey={link.text.toLowerCase().replace(/\s+/g, "-")}>
                   {link.text}
                 </a>
               </li>
@@ -51,7 +50,7 @@ const linkHoverColor = footer.hover_text_color;
 
     <p class="text-center py-8">
       &#169; {new Date().getFullYear()}
-      <span data-rosey={generateRoseyId(footer.copyright)}>
+      <span data-rosey="copyright">
         {footer.copyright}
       </span>
     </p>
